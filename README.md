@@ -5,6 +5,11 @@ The site is packed with smooth animations and scroll-triggered effects for an im
 
 🔗 **Live Demo:** [gsap-cocktails-theta-olive.vercel.app](https://gsap-cocktails-theta-olive.vercel.app/)
 
+<img width="1895" height="919" alt="image" src="https://github.com/user-attachments/assets/bdabaea0-f989-49fe-8a8e-51fa95a3cb94" />
+
+
+<img width="984" height="636" alt="image" src="https://github.com/user-attachments/assets/e3ce9dce-8e04-4445-a3f4-e3f4ce66e83e" />
+
 ---
 
 ## ✨ Features
